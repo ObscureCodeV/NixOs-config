@@ -19,10 +19,6 @@
       	executable = "${pkgs.librewolf}/bin/librewolf";
       	profile = "${pkgs.firejail}/etc/firejail/librewolf.profile";
       };
-      goofcord = {
-      	executable = "${pkgs.goofcord}/bin/goofcord";
-      	profile = "${pkgs.firejail}/etc/firejail/goofcord.profile";
-      };
     };
   };
 }

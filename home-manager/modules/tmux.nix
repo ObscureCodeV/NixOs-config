@@ -16,6 +16,7 @@
 #previous command
 		bind -n C-p send-keys -t . Up Enter
 #exit
+        bind -n C-r kill-pane
 		bind q kill-session
 		";
 	};

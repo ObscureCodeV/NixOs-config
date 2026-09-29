@@ -1,5 +1,5 @@
 let
-  dir = "./bash-scripts";
+  dir = "/home/vanger/git/Nixos-conig/home-manager/modules/bash-scripts";
 in
 {
   programs.bash = {

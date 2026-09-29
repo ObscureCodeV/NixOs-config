@@ -6,7 +6,6 @@
       ./hardware-configuration.nix
       ./modules/bundle.nix
       ./env.nix
-      ./session.nix
       ./packages.nix 
     ];
 
